@@ -3,6 +3,8 @@
 ####
 🌎 Tenho 19 anos, morando atualmente em Nova Venécia/ES;
 ####
+📐 Técnino em Edificações;
+####
 💻 Entusiasta de tecnologia e desenvolvimento web;
 ####
 🎓 Atualmente estudo no curso de desenvolvimento web fullstack na  _[Trybe](https://www.betrybe.com/)_.
