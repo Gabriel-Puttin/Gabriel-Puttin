@@ -1,7 +1,7 @@
 ### **Olá, me chamo _[Gabriel](https://www.linkedin.com/in/gabriel-constantino-biancardi-puttin/)_!**
 
 ####
-🌎 Tenho 19 anos, morando atualmente em Nova Venécia/ES;
+🌎 Tenho 20 anos, morando atualmente em Nova Venécia/ES;
 ####
 📐 Técnino em Edificações;
 ####
