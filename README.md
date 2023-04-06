@@ -7,7 +7,7 @@
 ####
 💻 Entusiasta de tecnologia e desenvolvimento web;
 ####
-🎓 Atualmente estudo no curso de desenvolvimento web fullstack na  _[Trybe](https://www.betrybe.com/)_.
+🎓 Desenvolvedor web fullstack pela  _[Trybe](https://www.betrybe.com/)_.
 ####
 
 
