@@ -1,7 +1,7 @@
 ### **Olá, me chamo _[Gabriel](https://www.linkedin.com/in/gabriel-constantino-biancardi-puttin/)_!**
 
 ####
-🌎 Tenho 20 anos, morando atualmente em Nova Venécia/ES;
+🌎 Tenho 22 anos, morando atualmente em Vila Velha/ES;
 ####
 📐 Técnino em Edificações;
 ####
@@ -9,7 +9,9 @@
 ####
 🎓 Desenvolvedor web fullstack pela  _[Trybe](https://www.betrybe.com/)_.
 ####
-
+####
+🎓 Cursando Sistemas de Informação pela  _[UVV](https://uvv.br/)_.
+####
 
 ### Stacks
 
